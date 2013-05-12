@@ -1,0 +1,88 @@
+CONCUR >> recommendflights
+
+___ Original flight list
+United#143 $220.45(first/aisle/1 stop)
+American#283 $110.45(economy/other/2 stops)
+Delta#980 $120.55(economy/window/1 stop)
+Alaska#123 $100.7(economy/aisle/non-stop)
+United#348 $220.45(first/window/non-stop)
+SouthWest#121 $100.4(economy/aisle/non-stop)
+Delta#321 $240.5(first/aisle/non-stop)
+United#301 $120.45(economy/other/non-stop)
+American#799 $230.2(first/window/1 stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+jetBlue#149 $105.6(economy/other/non-stop)
+jetBlue#327 $213.6(first/window/non-stop)
+American#219 $133.56(economy/aisle/non-stop)
+SouthWest#291 $202.8(first/window/non-stop)
+SouthWest#355 $128.3(economy/other/non-stop)
+
+___ Airfare benchmark:
+economy: $114.51
+first: $221.33
+
+___ Recommended flights for:Carol Easton
+___ Airline preference:SouthWest
+___ Airline policy:,SouthWest,United,Delta
+___ Seat preference:aisle
+___ Class policy:,economy
+SouthWest#121 $100.4(economy/aisle/non-stop)
+SouthWest#355 $128.3(economy/other/non-stop)
+United#301 $120.45(economy/other/non-stop)
+Delta#980 $120.55(economy/window/1 stop)
+Alaska#123 $100.7(economy/aisle/non-stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+American#219 $133.56(economy/aisle/non-stop)
+
+___ Recommended flights for:Mary Mason
+___ Airline preference:American
+___ Airline policy:,United,Alaska
+___ Seat preference:any
+___ Class policy:,economy
+Alaska#123 $100.7(economy/aisle/non-stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+United#301 $120.45(economy/other/non-stop)
+American#219 $133.56(economy/aisle/non-stop)
+SouthWest#121 $100.4(economy/aisle/non-stop)
+jetBlue#149 $105.6(economy/other/non-stop)
+SouthWest#355 $128.3(economy/other/non-stop)
+
+___ Recommended flights for:Robert Meyer
+___ Airline preference:United
+___ Airline policy:,Delta
+___ Seat preference:window
+___ Class policy:,economy,first
+Delta#980 $120.55(economy/window/1 stop)
+United#301 $120.45(economy/other/non-stop)
+Delta#321 $240.5(first/aisle/non-stop)
+SouthWest#121 $100.4(economy/aisle/non-stop)
+Alaska#123 $100.7(economy/aisle/non-stop)
+jetBlue#149 $105.6(economy/other/non-stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+
+___ Recommended flights for:John Doe
+___ Airline preference:Delta
+___ Airline policy:,Delta
+___ Seat preference:aisle
+___ Class policy:,economy
+Delta#980 $120.55(economy/window/1 stop)
+SouthWest#121 $100.4(economy/aisle/non-stop)
+Alaska#123 $100.7(economy/aisle/non-stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+American#219 $133.56(economy/aisle/non-stop)
+jetBlue#149 $105.6(economy/other/non-stop)
+United#301 $120.45(economy/other/non-stop)
+
+___ Recommended flights for:Tim McDonald
+___ Airline preference:United
+___ Airline policy:,United,American
+___ Seat preference:aisle
+___ Class policy:,economy,first
+United#301 $120.45(economy/other/non-stop)
+American#219 $133.56(economy/aisle/non-stop)
+United#348 $220.45(first/window/non-stop)
+SouthWest#121 $100.4(economy/aisle/non-stop)
+Alaska#123 $100.7(economy/aisle/non-stop)
+Alaska#549 $110.6(economy/aisle/non-stop)
+jetBlue#149 $105.6(economy/other/non-stop)
+CONCUR >>
